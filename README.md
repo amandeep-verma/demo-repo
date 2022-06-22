@@ -1,4 +1,4 @@
-The repo is made just to experiment stuff. There is nothing productive here.
+Dummy Repo
 
 # demo-repo
 
